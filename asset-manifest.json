@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kodec-03-forms-task/static/css/main.abbb3bcf.css",
+    "main.js": "/kodec-03-forms-task/static/js/main.0f878769.js",
+    "index.html": "/kodec-03-forms-task/index.html",
+    "main.abbb3bcf.css.map": "/kodec-03-forms-task/static/css/main.abbb3bcf.css.map",
+    "main.0f878769.js.map": "/kodec-03-forms-task/static/js/main.0f878769.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abbb3bcf.css",
+    "static/js/main.0f878769.js"
+  ]
+}
